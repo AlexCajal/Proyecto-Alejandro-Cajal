@@ -1,0 +1,10 @@
+Proyecto Alejandro Cajal
+
+(LA documentacion Podria verse modificada)
+
+Las preguntas de cada test seran elegidas aleatoriamente de una lista de preguntas para formar un test de 30 que se entregara al alumno en el momento de la realización.
+Cada test tendra sus respuestas con la correcta.
+
+Los Estuduantes, Profesores y administradores tendran una clase comun de persona con los datos clave (en caso de que un profesor sea administrador).
+
+Las clases podran ser tanto téoricas como practicas conteniendo en si la fecha de esta.
