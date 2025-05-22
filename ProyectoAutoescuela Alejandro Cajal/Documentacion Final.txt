@@ -1,0 +1,14 @@
+Proyecto autoescuela cruece de caminos Alejandro Cajal Bernués.
+
+Este proyecto cuenta con los diagrames finales dibujados en DrawIO, estos diagramas han tenido alteraciones con respecto a los primeros debido
+a modificaciones durante la creación del programa.
+
+Las clases de Java que componen el programa.
+
+Los Documentos SQL donde se encuentran la creación de tablas, inserciones y consultas utilizadas durante el proyecto.
+
+Acceso a la Base de datos:
+
+endpoint: database-1.cxiomu46ayj0.us-east-1.rds.amazonaws.com
+usuario: admin
+contraseña: AlexCajal8.
